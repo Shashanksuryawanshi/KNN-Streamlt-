@@ -7,7 +7,7 @@ A simple and interactive machine learning web app built using **K-Nearest Neighb
 
 ## 📸 Screenshot
 
-![Fruit Classifier](./Screenshot-2025-06-20-at-10.53.48-AM.png)
+![Fruit Classifier](./fruit_classifier_ui.png)
 
 ---
 
